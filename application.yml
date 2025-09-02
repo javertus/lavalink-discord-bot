@@ -1,0 +1,13 @@
+server:
+  port: 2333
+lavalink:
+  server:
+    sources:
+      youtube: false
+    password: "youshallnotpass"
+plugins:
+  youtube:
+    enabled: true
+    oauth:
+      enabled: true
+      #refreshToken: ENTER GIVEN REFRESH TOKEN HERE AFTER AUTHORISING A GOOGLE ACCOUNT
